@@ -1,0 +1,41 @@
+Question 2: assuming you have already connected your repl.it project to your github project, will creating the new file in repl.it automatically sync it across to github.com?
+No, the changes must be committed and pushed to GitHub.
+
+Question 3: if your answer to the previous question is "No", then what do you have to do sync your new file across to the github.com guestbook repo? If your answer to the previous question is "Yes", then go back and revisit the previous question again because that is not the correct answer.
+The changes are automatically saved on repl.it. 
+
+Question 7: will uploading the screenshot into github.com make it automatically sync across to repl.it?
+
+
+Question 8: if your answer to the previous question is "No", then what do you have to do sync your screenshot to repl.it? (commit? push? or pull?)
+
+
+Question 12: what does the message "1 commit behind" mean?
+
+
+Action/Question 13: attempt to commit and push your change from repl.it. What happens? In the window that pops up click Cancel. Be sure you click cancel!
+
+
+Action/Question 14: click the pull button next to the "1 commit behind" message. If it's not already open, open your midterm2-answers.txt file on repl.it. Do you see "both" statements you typed? Does HEAD refer to repl.it or github.com? Does origin/main refer to repl.it or github.com?
+
+
+Action/Question 17: open your midterm2-answers.txt file on repl.it if it isn't already open and answer this question: after you complete the previous step (3-16), how many branches are there? One or two? Hint: all the branches are listed in the drop down so see how many branches are listed there! After you answer this question, close the midterm2-answers.txt file from within repl.it. Then click the "files" icon in repl.it and re-open that same file.
+
+
+Action/Question 21: switch back to your repl.it browser tab and HIT REFRESH! Then click on the version control icon, make sure webdev is selected, and then click the "pull" button that should appear. Which files are pulled across to repl.it?
+
+
+Question 22: these next questions are going to be all about web development. Open midterm2-answers.txt on repl.it, make sure it is the copy that has your 3-17 and 3-21 answers (which you probably just added, yes?) and answer the rest of the questions. For this question, which language (HTML, CSS, JavaScript, or PHP) is a server-side scripting language?
+
+
+Question 23: Which language (HTML, CSS, JavaScript, or PHP) allows you to specify and organize all style information for the way your page looks?
+
+
+Question 24: Which language (HTML, CSS, JavaScript, or PHP) holds all the static content for your page and is ultimately rendered by the web browser?
+
+
+Question 25: Which language (HTML, CSS, JavaScript, or PHP) allows you to add code that is executed when the user performs some action (i.e., moving the mouse around on the page, clicking on text, etc...)?
+
+
+Question 26: Which language (HTML, CSS, JavaScript, or PHP) allows you to dynamically generate content based on data stored on the server?
+  
